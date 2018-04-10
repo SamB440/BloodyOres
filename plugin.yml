@@ -1,0 +1,9 @@
+name: BloodyOres
+version: 1.0.0
+author: SamB440
+main: com.SamB440.BloodyOres.BloodyOres
+commands:
+  BloodyOres:
+     description: Main plugin command.
+     usage: /BloodyOres
+     aliases: [bo]
